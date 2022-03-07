@@ -19,6 +19,7 @@
   <img src="https://img.icons8.com/color/48/000000/thymeleaf.png"/>
   
   <img align="center" alt="Java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg">
 </div>
    
 <div> 
@@ -33,6 +34,7 @@
 
    ![S cobrancas](https://user-images.githubusercontent.com/47038908/156637141-392c9527-5377-42ad-bfff-d3965242aaac.gif)
    
+  Link para acessar a  aplicacao no heroku - > https://sys-cobranca.herokuapp.com/titulos?descricao
  
 </div>
 
