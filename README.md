@@ -27,6 +27,7 @@
    * ### FUNCIONALIDADES: 
   
    * Listagem de todos os titulos.
+   * Pesquisa de um titulo especifico
    * Cadastro de um titulo.
    * Edição de um titulo.
    * Exclusao de um titulo.
